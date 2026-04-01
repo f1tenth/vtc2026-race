@@ -14,7 +14,7 @@ href="https://autodrive-ecosystem.github.io/competitions/roboracer-sim-racing-iv
 Racing Registration page</a>.
 <br>
 The following Google form is only for preliminary registration and for orientation and information
-sessions. Registration to IV 2026 is expected for all competitors.
+sessions. Registration to VTC 2026 is expected for all competitors.
 </p><!-- /REG_INFO_PARAGRAPH -->
 
 <center class="actions">

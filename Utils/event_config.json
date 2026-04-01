@@ -1,20 +1,20 @@
 {
     "event": {
-        "conference_name": "IV",
-        "conference_full_name": "IEEE Intelligent Vehicles Symposium",
-        "race_number": "28TH",
+        "conference_name": "VTC",
+        "conference_full_name": "IEEE Vehicular Technology Conference",
+        "race_number": "30TH",
         "year": "2026",
-        "venue_name": "Detroit Marriott at the Renaissance Center",
-        "location": "Detroit, MI, United States",
-        "venue_url": "https://www.marriott.com/en-us/hotels/dtwdt-detroit-marriott-at-the-renaissance-center/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-        "conference_url": "https://ieee-iv.org/2026/",
-        "conference_logo": "images/IV2026.png",
+        "venue_name": "The Hilton Boston Park Plaza",
+        "location": "Boston, MA, United States",
+        "venue_url": "https://www.hilton.com/en/hotels/bossrhh-hilton-boston-park-plaza/",
+        "conference_url": "https://events.vtsociety.org/vtc2026-fall/",
+        "conference_logo": "images/vts-logo-main.png",
         "contact_email": "contact@roboracer.ai",
-        "cname": "iv2026-race.roboracer.ai",
-        "conference_dates_display": "June 22nd - 25th"
+        "cname": "vtc2026-race.roboracer.ai",
+        "conference_dates_display": "September 6th - 9th"
     },
     "dates": {
-        "race_day": "2026-06-24",
+        "race_day": "2026-09-09",
         "offsets": {
             "qualification": -1,
             "team_training": -2,
@@ -47,7 +47,7 @@
         "bracket_link": "",
         "youtube_stream_id": "KLOceDeegVs",
         "twitch_parent_domains": [
-            "iv2026-race.f1tenth.org",
+            "vtc2026-race.f1tenth.org",
             "localhost"
         ],
         "show_stream_placeholder": true,
@@ -72,52 +72,12 @@
             "institution": "University of Pennsylvania"
         },
         {
-            "name": "Venkat Krovi",
-            "image": "images/organizer/venkat.jpeg",
-            "profile_url": "https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html",
-            "title": "Michelin Chair Professor",
-            "department": "Department of Automotive Engineering",
-            "institution": "Clemson University"
-        },
-        {
-            "name": "Amr El-Wakeel",
-            "profile_url": "",
-            "title": "Assistant Professor, Director, Intelligent Cyber-Physical Systems Lab",
-            "department": "Lane Department of Computer Science & Electrical Engineering",
-            "institution": "West Virginia University",
-            "image": "images/organizer/amr_el-wakeel.png"
-        },
-        {
             "name": "Ahmad Amine",
             "image": "images/organizer/Ahmad.jpg",
             "profile_url": "https://ahmadamine998.github.io/",
             "title": "Ph.D. Candidate",
             "department": "Department of Electrical and Systems Engineering",
             "institution": "University of Pennsylvania"
-        },
-        {
-            "name": "Chinmay Samak",
-            "image": "images/organizer/Chinmay_Samak.jpg",
-            "profile_url": "mailto:csamak@clemson.edu",
-            "title": "Ph.D. Candidate",
-            "department": "Department of Automotive Engineering",
-            "institution": "Clemson University - ICAR"
-        },
-        {
-            "name": "Tanmay Samak",
-            "image": "images/organizer/Tanmay_Samak.jpg",
-            "profile_url": "mailto:tsamak@clemson.edu",
-            "title": "Ph.D. Candidate",
-            "department": "Department of Automotive Engineering",
-            "institution": "Clemson University - ICAR"
-        },
-        {
-            "name": "Mohamed Elgouhary",
-            "profile_url": "https://mohamed-elgouhary.github.io/",
-            "title": "PH.D. CANDIDATE",
-            "department": "Lane Department of Computer Science and Electrical Engineering",
-            "institution": "West Virginia University",
-            "image": "images/organizer/mohamed_elgouhary.jpeg"
         }
     ]
 }
