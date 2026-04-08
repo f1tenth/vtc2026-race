@@ -17,8 +17,16 @@ The following Google form is only for preliminary registration and for orientati
 sessions. Registration to VTC 2026 is expected for all competitors.
 </p><!-- /REG_INFO_PARAGRAPH -->
 
+<h3 id="fee">$50 Registration Fee</h3>
+
+<p>
+A <strong>$50 registration fee per team</strong> is required to participate in the RoboRacer
+competition at VTC 2026. After you submit the registration form below, our team will reach out
+to you with payment instructions. Your team's participation is contingent on this payment.
+</p>
+
 <center class="actions">
-<!-- REG_BUTTON --><a href="https://forms.gle/Dgcv3Ta1Aq354GtA7" class="button">Registration Open</a><!-- /REG_BUTTON -->
+<!-- REG_BUTTON --><a href="https://forms.gle/Ngg67K1UzPf56Dj16" class="button">Registration Open</a><!-- /REG_BUTTON -->
 </center>
 
 <br>
@@ -29,15 +37,15 @@ sessions. Registration to VTC 2026 is expected for all competitors.
 <p>
 Registration of accommodation needs to be organized and paid for individually by the participants. 
 </p>
-<!-- PARTICIPANTS_SECTION --><hr style="display:none;">
-<h3 id="participants" style="display:none;">Participants</h3>
-<p style="display:none;">
+<!-- PARTICIPANTS_SECTION --><hr>
+<h3 id="participants">Participants</h3>
+<p>
 If you have registered for participation but the list below is not updated, please contact us at
 <a href="mailto:contact@roboracer.ai"><span
 class="label">contact@roboracer.ai</span></a>. <br>
 Register the modified information under the same team name, and we will update it accordingly.
 </p>
-<table style="display:none;">
+<table>
 <thead>
 <tr>
 <th style="text-align: left">TEAM NAME</th>

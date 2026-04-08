@@ -95,13 +95,13 @@ section: timeline
 	</thead>
 	<tbody>
 		<tr class="tg-1vzr">
-			<td class="tg-1vzr"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_OPEN_DATE -->May 19th<!-- /TL_REG_OPEN_DATE --></span></td>
+			<td class="tg-1vzr"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_OPEN_DATE -->April 6th<!-- /TL_REG_OPEN_DATE --></span></td>
 			<td class="tg-j1gp"><span style="font-weight:400;font-style:normal"> <a>Registration Opens</a></span></td>
 		</tr>
 
 		<!-- TL_O1_ROW --><tr>
 <td class="tg-1vzr"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 5th, 11:00AM - 12:00PM ET</span>
+style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 2nd, 11:00AM - 12:00PM ET</span>
 </td>
 <td class="tg-j1gp"><a
 href=""><span
@@ -118,7 +118,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-tbri"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_CLOSE_DATE -->July 31st<!-- /TL_REG_CLOSE_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_CLOSE_DATE -->September 1st<!-- /TL_REG_CLOSE_DATE --></span></td>
 			<td class="tg-npj4"><span style="font-weight:400;font-style:normal">Registration Closes,
 					Video Demonstration Due</span>
 			</td>
@@ -126,7 +126,7 @@ href="">Video</a></span>
 
 		<!-- TL_O2_ROW --><tr>
 <td class="tg-tbri"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">August 2nd, 11:00AM - 12:00PM ET</span></td>
+style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 30th, 11:00AM - 12:00PM ET</span></td>
 <td class="tg-npj4"><a
 href=""><span
 style="font-weight:400;font-style:normal">Roboracer Orientation 2 ( Track set
@@ -142,7 +142,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRACK_SETUP_DATE -->September 6th<!-- /TL_TRACK_SETUP_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRACK_SETUP_DATE -->September 5th<!-- /TL_TRACK_SETUP_DATE --></span></td>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Teams on-site registration and training/practice sessions</span>
@@ -151,7 +151,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRAINING_DATE -->September 7th<!-- /TL_TRAINING_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRAINING_DATE -->September 6th<!-- /TL_TRAINING_DATE --></span></td>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Training/practice sessions</span>
@@ -160,7 +160,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_QUAL_DATE -->September 8th<!-- /TL_QUAL_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_QUAL_DATE -->September 6th<!-- /TL_QUAL_DATE --></span></td>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Qualification Time Trials</span>
@@ -169,7 +169,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_RACE_DATE -->September 9th<!-- /TL_RACE_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_RACE_DATE -->September 6th<!-- /TL_RACE_DATE --></span></td>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Head-to-Head Tournament & Award Ceremony</span>
