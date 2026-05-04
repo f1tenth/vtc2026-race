@@ -99,6 +99,15 @@ section: timeline
 			<td class="tg-j1gp"><span style="font-weight:400;font-style:normal"> <a>Registration Opens</a></span></td>
 		</tr>
 
+		<tr>
+			<td class="tg-1vzr"><span
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_WS_DATE -->June 5th, until 4:00 PM CEST (t.b.c.)<!-- /TL_WS_DATE --></span></td>
+			<td class="tg-j1gp"><span
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
+					Workshop and team presentations</span>
+			</td>
+		</tr>
+
 		<!-- TL_O1_ROW --><tr>
 <td class="tg-1vzr"><span
 style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 2nd, 11:00AM - 12:00PM ET</span>
@@ -116,14 +125,6 @@ href="">Video</a></span>
 </td>
 </tr><!-- /TL_O1_ROW -->
 
-		<tr>
-			<td class="tg-tbri"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_CLOSE_DATE -->September 1st<!-- /TL_REG_CLOSE_DATE --></span></td>
-			<td class="tg-npj4"><span style="font-weight:400;font-style:normal">Registration Closes,
-					Video Demonstration Due</span>
-			</td>
-		</tr>
-
 		<!-- TL_O2_ROW --><tr>
 <td class="tg-tbri"><span
 style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 30th, 11:00AM - 12:00PM ET</span></td>
@@ -139,6 +140,14 @@ href="">Slide</a>
 href="">Video</a></span>
 </td>
 </tr><!-- /TL_O2_ROW -->
+
+		<tr>
+			<td class="tg-tbri"><span
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_REG_CLOSE_DATE -->September 1st<!-- /TL_REG_CLOSE_DATE --></span></td>
+			<td class="tg-npj4"><span style="font-weight:400;font-style:normal">Registration Closes,
+					Video Demonstration Due</span>
+			</td>
+		</tr>
 
 		<tr>
 			<td class="tg-1vzr"><span
@@ -173,15 +182,6 @@ href="">Video</a></span>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Head-to-Head Tournament & Award Ceremony</span>
-			</td>
-		</tr>
-
-		<tr>
-			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_WS_DATE -->June 5th, until 4:00 PM CEST (t.b.c.)<!-- /TL_WS_DATE --></span></td>
-			<td class="tg-j1gp"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
-					Workshop and team presentations</span>
 			</td>
 		</tr>
 	</tbody>

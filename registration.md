@@ -32,7 +32,7 @@ to you with payment instructions. Your team's participation is contingent on thi
 <br>
 <br>
 
-<h3 id="accomodation">Accomodation</h3>
+<h3 id="accommodation">Accommodation</h3>
 
 <p>
 Registration of accommodation needs to be organized and paid for individually by the participants. 
