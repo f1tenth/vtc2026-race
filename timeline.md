@@ -151,7 +151,7 @@ href="">Video</a></span>
 
 		<tr>
 			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRACK_SETUP_DATE -->September 5th<!-- /TL_TRACK_SETUP_DATE --></span></td>
+					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_TRACK_SETUP_DATE -->September 6th<!-- /TL_TRACK_SETUP_DATE --></span></td>
 			<td class="tg-j1gp"><span
 					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 					Teams on-site registration and training/practice sessions</span>

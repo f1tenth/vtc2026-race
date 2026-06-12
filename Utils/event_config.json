@@ -18,7 +18,7 @@
         "offsets": {
             "qualification": 0,
             "team_training": 0,
-            "track_setup": -1,
+            "track_setup": 0,
             "orientation_2": -38,
             "registration_closes": -5,
             "orientation_1": -66,
