@@ -99,18 +99,9 @@ section: timeline
 			<td class="tg-j1gp"><span style="font-weight:400;font-style:normal"> <a>Registration Opens</a></span></td>
 		</tr>
 
-		<tr>
-			<td class="tg-1vzr"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><!-- TL_WS_DATE -->June 5th, until 4:00 PM CEST (t.b.c.)<!-- /TL_WS_DATE --></span></td>
-			<td class="tg-j1gp"><span
-					style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
-					Workshop and team presentations</span>
-			</td>
-		</tr>
-
 		<!-- TL_O1_ROW --><tr>
 <td class="tg-1vzr"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 2nd, 11:00AM - 12:00PM ET</span>
+style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 29th, 11:00AM - 12:00PM ET</span>
 </td>
 <td class="tg-j1gp"><a
 href=""><span
@@ -127,7 +118,7 @@ href="">Video</a></span>
 
 		<!-- TL_O2_ROW --><tr>
 <td class="tg-tbri"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 30th, 11:00AM - 12:00PM ET</span></td>
+style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">August 20th, 11:00AM - 12:00PM ET</span></td>
 <td class="tg-npj4"><a
 href=""><span
 style="font-weight:400;font-style:normal">Roboracer Orientation 2 ( Track set
