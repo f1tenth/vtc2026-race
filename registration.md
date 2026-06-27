@@ -54,6 +54,41 @@ Register the modified information under the same team name, and we will update i
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: left">Ardubotz</td>
+<td style="text-align: left">University at Buffalo</td>
+<td style="text-align: left">Jay Aditya</td>
+</tr>
+<tr>
+<td style="text-align: left">Mukhi Racer</td>
+<td style="text-align: left">University of Wisconsin-Madison</td>
+<td style="text-align: left">Samarth Mukhi</td>
+</tr>
+<tr>
+<td style="text-align: left">RoboTalRacer</td>
+<td style="text-align: left">Independent</td>
+<td style="text-align: left">Zohar Tal</td>
+</tr>
+<tr>
+<td style="text-align: left">EGYracers</td>
+<td style="text-align: left">German International University</td>
+<td style="text-align: left">Andrew Elkess Mousa<br>Galal Mahmoud</td>
+</tr>
+<tr>
+<td style="text-align: left">URI ARC</td>
+<td style="text-align: left">University of Rhode Island</td>
+<td style="text-align: left">Andrew Texeira<br>Logan D'Arezzo<br>Julian Tamayo<br>Sean Cooper<br>Maile Campbell<br>Ervin Ranz Regalado<br>Jeraldy Herrera Santos<br>Devon Butziger<br>Cameron Amaral</td>
+</tr>
+<tr>
+<td style="text-align: left">Mobile Intelligence Team</td>
+<td style="text-align: left">University of Victoria</td>
+<td style="text-align: left">Yuhao Chen<br>Feng Ye<br>Wenjun Yang</td>
+</tr>
+<tr>
+<td style="text-align: left">BUF1TENTH</td>
+<td style="text-align: left">Boston University</td>
+<td style="text-align: left">Nemai Anand<br>Adi Sahasranam<br>Arsh Sharma<br>Birinder Bachhal</td>
+</tr>
 </tbody>
 </table><!-- /PARTICIPANTS_SECTION -->
 
