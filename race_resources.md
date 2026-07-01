@@ -1,5 +1,5 @@
 ---
-title: Roboracer VTC 2026 Race Resources
+title: Roboracer VTC2026-Fall Race Resources
 short_title: Race Resources
 layout: page
 section: race

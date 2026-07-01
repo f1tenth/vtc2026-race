@@ -1866,7 +1866,10 @@ class RepositoryUpdater:
 
     @property
     def conf_with_year(self) -> str:
-        """Conference acronym with year (e.g., 'ICRA 2025')."""
+        """Conference acronym with year (e.g., 'ICRA 2025'). If the acronym already
+        embeds the year (e.g. 'VTC2026-Fall'), don't append it a second time."""
+        if self.year and self.year in self.conf_acronym:
+            return self.conf_acronym
         return f"{self.conf_acronym} {self.year}"
 
     @property

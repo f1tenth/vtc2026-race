@@ -14,14 +14,14 @@ href="https://autodrive-ecosystem.github.io/competitions/roboracer-sim-racing-iv
 Racing Registration page</a>.
 <br>
 The following Google form is only for preliminary registration and for orientation and information
-sessions. Registration to VTC 2026 is expected for all competitors.
+sessions. Registration to VTC2026-Fall is expected for all competitors.
 </p><!-- /REG_INFO_PARAGRAPH -->
 
 <h3 id="fee">$50 Registration Fee</h3>
 
 <p>
 A <strong>$50 registration fee per team</strong> is required to participate in the RoboRacer
-competition at VTC 2026. After you submit the registration form below, our team will reach out
+competition at VTC2026-Fall. After you submit the registration form below, our team will reach out
 to you with payment instructions. Your team's participation is contingent on this payment.
 </p>
 
