@@ -2086,8 +2086,8 @@ class RepositoryUpdater:
 							</td>
 							<td class="tg-j1gp"><a
 									href="{o1_zoom}"><span
-										style="font-weight:inherit;font-style:inherit">Roboracer Orientation 1 (
-										Competition Rules overview )</span></a><br>
+										style="font-weight:inherit;font-style:inherit">Roboracer Orientation 1 ( Track set
+										up, Track overview for in-person competition, Teams Training )</span></a><br>
 								<span
 									style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
 									<a

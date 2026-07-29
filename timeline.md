@@ -101,27 +101,11 @@ section: timeline
 
 		<!-- TL_O1_ROW --><tr>
 <td class="tg-1vzr"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">July 29th, 11:00AM - 12:00PM ET</span>
+style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">August 20th, 11:00AM - 12:00PM ET</span>
 </td>
 <td class="tg-j1gp"><a
 href=""><span
-style="font-weight:inherit;font-style:inherit">Roboracer Orientation 1 (
-Competition Rules overview )</span></a><br>
-<span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
-<a
-href="">Slide</a>
-<a
-href="">Video</a></span>
-</td>
-</tr><!-- /TL_O1_ROW -->
-
-		<!-- TL_O2_ROW --><tr>
-<td class="tg-tbri"><span
-style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">August 20th, 11:00AM - 12:00PM ET</span></td>
-<td class="tg-npj4"><a
-href=""><span
-style="font-weight:400;font-style:normal">Roboracer Orientation 2 ( Track set
+style="font-weight:inherit;font-style:inherit">Roboracer Orientation 1 ( Track set
 up, Track overview for in-person competition, Teams Training )</span></a><br>
 <span
 style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">
@@ -130,7 +114,7 @@ href="">Slide</a>
 <a
 href="">Video</a></span>
 </td>
-</tr><!-- /TL_O2_ROW -->
+</tr><!-- /TL_O1_ROW -->
 
 		<tr>
 			<td class="tg-tbri"><span
